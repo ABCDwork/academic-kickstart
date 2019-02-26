@@ -1,6 +1,6 @@
 +++
 # Display name
-title = "Dilara Keküllüo?lu"
+title = "Silviu Oprea"
 
 # Role/position
 role = "Assistant Professor"
@@ -9,10 +9,10 @@ role = "Assistant Professor"
 #bio = ""
 
 # External website link
-external_link = "https://www.linkedin.com/in/dilarakekulluoglu/"
+external_link = "https://silviu.oprea.ch/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-15T16:07:01
+date = 2019-01-14T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
