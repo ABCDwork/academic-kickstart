@@ -1,6 +1,6 @@
 +++
 # Display name
-title = "Dilara Keküllüo?lu"
+title = "Dilara Kekulluoglu"
 
 # Role/position
 role = "Assistant Professor"
