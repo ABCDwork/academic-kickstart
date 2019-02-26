@@ -6,10 +6,10 @@ title = "Walid Magdy"
 role = "Assistant Professor"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Isabelle's main research interests are natural language understanding and learning with limited training data."
+#bio = "Isabelle's main research interests are natural language understanding and learning with limited training data."
 
 # External website link
-external_link = "http://isabelleaugenstein.github.io/"
+external_link = "http://homepages.inf.ed.ac.uk/wmagdy/"
 
 # Date this page was created. Entries are sorted by most recent one.
 date = 2019-01-20T17:07:01
@@ -44,32 +44,32 @@ link = "mailto:augenstein@di.ku.dk"  # For a direct email link, use "mailto:test
 [[social]]
 icon = "twitter"
 icon_pack = "fab"
-link = "https://twitter.com/IAugenstein"
+link = "https://twitter.com/walid_magdy"
 
-[[social]]
-icon = "linkedin"
-icon_pack = "fab"
-link = "https://dk.linkedin.com/in/isabelle-augenstein-82436b7a"
+#[[social]]
+#icon = "linkedin"
+#icon_pack = "fab"
+#link = "https://dk.linkedin.com/in/isabelle-augenstein-82436b7a"
 
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.co.uk/citations?user=DjJp0dcAAAAJ&hl=bg"
+link = "https://scholar.google.com/citations?user=ACQD8jMAAAAJ&hl=en"
 
-[[social]]
-icon = "github"
-icon_pack = "fab"
-link = "https://github.com/isabelleaugenstein"
+#[[social]]
+#icon = "github"
+#icon_pack = "fab"
+#link = "https://github.com/isabelleaugenstein"
 
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+#external_link = "http://example.org"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
+  caption = "Photo by walid"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
