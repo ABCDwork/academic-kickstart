@@ -12,7 +12,7 @@ role = "Assistant Professor"
 external_link = "http://homepages.inf.ed.ac.uk/s1202948/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-21T17:07:01
+date = 2019-01-19T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
