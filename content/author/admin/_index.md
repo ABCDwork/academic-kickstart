@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "SMASH"
+name = "Social Media Analysis and Support for Humanity"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Social Media Analysis and Support for Humanity"
+role = "University of Edinburgh"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Edinburgh", url = "" } ]
+organizations = [ { name = "School of Informatics", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
