@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Social Media Analysis and Support for Humanity"
+name = ""
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "University of Edinburgh"
+role = "Social Media Analysis and Support for Humanity"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "School of Informatics", url = "" } ]
+organizations = [ { name = "University of Edinburgh, School of Informatics", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -22,11 +22,11 @@ bio = ""
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
-]
+#interests = [
+#  "Artificial Intelligence",
+#  "Computational Linguistics",
+#  "Information Retrieval"
+#]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget. ["Researchers", "Visitors"]
