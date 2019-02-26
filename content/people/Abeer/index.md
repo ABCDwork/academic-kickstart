@@ -12,7 +12,7 @@ role = "Assistant Professor"
 external_link = "https://abeeraldayel.github.io/index.html"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-18T17:07:01
+date = 2019-01-17T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
