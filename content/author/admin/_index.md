@@ -22,11 +22,11 @@ bio = ""
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
-]
+#interests = [
+#  "Artificial Intelligence",
+#  "Computational Linguistics",
+#  "Information Retrieval"
+#]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget. ["Researchers", "Visitors"]
@@ -46,13 +46,13 @@ user_groups = []
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/"
 
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
