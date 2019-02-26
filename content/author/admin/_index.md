@@ -63,5 +63,6 @@ user_groups = []
 
 +++
 
-The Social Media Analysis and Support for Humanity (SMASH) is a research group that brings together a range of researchers from University of Edinburgh in order to build on our existing strengths in social media research. 
+The Social Media Analysis and Support for Humanity (SMASH) is a research group that brings together a range of researchers from 
+University of Edinburgh in order to build on our existing strengths in social media research. 
 This research group focuses on mining structures and behaviors in social networks.
