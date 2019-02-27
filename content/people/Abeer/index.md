@@ -16,7 +16,7 @@ date = 2019-01-17T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Members"]
+tags = ["PhD Students"]
 
 # Social/Academic Networking
 #

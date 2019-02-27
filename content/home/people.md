@@ -36,19 +36,28 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
+# Group leader Faculty members Post-docs PhD Students Alumni
 
 [[filter]]
-  name = "Members"
-  tag = "Members"
+  name = "Group leader"
+  tag = "Group leader"
   
 [[filter]]
-  name = "Affiliated"
-  tag = "Affiliated"
+  name = "Faculty members"
+  tag = "Faculty members"
+
+[[filter]]
+  name = "Post-docs"
+  tag = "Post-docs"
+  
+[[filter]]
+  name = "PhD Students"
+  tag = "PhD Students"
 
 [[filter]]
   name = "Alumni"
   tag = "Alumni"
-  
+
 [[filter]]
   name = "All"
   tag = "*"
