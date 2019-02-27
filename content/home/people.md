@@ -58,9 +58,9 @@ filter_default = 0
   name = "Alumni"
   tag = "Alumni"
 
-[[filter]]
-  name = "All"
-  tag = "*"
+#[[filter]]
+#  name = "All"
+#  tag = "*"
 
 +++
 
