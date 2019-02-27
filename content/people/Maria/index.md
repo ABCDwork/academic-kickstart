@@ -9,7 +9,7 @@ role = "Assistant Professor"
 #bio = "Isabelle's main research interests are natural language understanding and learning with limited training data."
 
 # External website link
-external_link = "http://homepages.inf.ed.ac.uk/wmagdy/"
+external_link = "http://mariawolters.net/"
 
 # Date this page was created. Entries are sorted by most recent one.
 date = 2019-01-20T17:07:01
