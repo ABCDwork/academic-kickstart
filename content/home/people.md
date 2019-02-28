@@ -39,6 +39,10 @@ filter_default = 0
 # Group leader Faculty members Post-docs PhD Students Alumni
 
 [[filter]]
+  name = "All"
+  tag = "*"
+
+[[filter]]
   name = "Group leader"
   tag = "Group leader"
   
@@ -58,9 +62,9 @@ filter_default = 0
 #  name = "Alumni"
 #  tag = "Alumni"
 
-[[filter]]
-  name = "All"
-  tag = "*"
+#[[filter]]
+#  name = "All"
+#  tag = "*"
 
 +++
 
