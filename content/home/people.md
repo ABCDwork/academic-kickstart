@@ -54,9 +54,9 @@ filter_default = 0
   name = "PhD Students"
   tag = "PhD Students"
 
-[[filter]]
-  name = "Alumni"
-  tag = "Alumni"
+#[[filter]]
+#  name = "Alumni"
+#  tag = "Alumni"
 
 [[filter]]
   name = "All"
