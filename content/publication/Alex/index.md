@@ -49,7 +49,7 @@ projects = ["", ""]
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwj-stnasPDgAhVvUhUIHYAsBYYQFjABegQICBAC&url=https%3A%2F%2Fwww.aaai.org%2Focs%2Findex.php%2FICWSM%2FICWSM18%2Fpaper%2Fdownload%2F17833%2F17080&usg=AOvVaw3dm-eDDd9SZDmKuaxvpYAC"
+url_pdf = "https://homepages.inf.ed.ac.uk/sgwater/papers/icwsm18-skintone.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
