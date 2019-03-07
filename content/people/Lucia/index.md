@@ -9,7 +9,7 @@ role = "Assistant Professor"
 #bio = ""
 
 # External website link
-external_link = "https://www.linkedin.com/in/lushi-chen-6582066a/"
+external_link = "https://lushichen.com/"
 
 # Date this page was created. Entries are sorted by most recent one.
 date = 2019-01-18T17:07:01
