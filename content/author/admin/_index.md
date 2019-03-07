@@ -46,7 +46,7 @@ user_groups = []
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/"
+  link = "https://twitter.com/SMASH_Edin"
 
 
 [[social]]
@@ -66,5 +66,3 @@ user_groups = []
 The Social Media Analysis and Support for Humanity (SMASH) is a research group that brings together a range of researchers from 
 University of Edinburgh in order to build on our existing strengths in social media research. 
 This research group focuses on mining structures and behaviors in social networks.
-
-The Social Media Analysis and Support for Humanity (SMASH) is a research group that brings together a range of researchers from University of Edinburgh in order to build on our existing strengths in social media research. This research group focuses on mining structures and behaviors in social networks.
