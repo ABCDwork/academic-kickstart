@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "CLPsych-NAACL2019"
-publication_short = "In *WWW*"
+publication_short = "In *CLPsych-NAACL2019*"
 
 # Abstract and optional shortened version.
 abstract = ""
