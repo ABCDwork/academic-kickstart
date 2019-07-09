@@ -1,10 +1,10 @@
 +++
-title = " Assessing Sentiment of the Expressed Stance on Social Media"
-date = 2019-07-1T00:00:00
+title = "Online Community Engagement when Talking About Infidelity: The Case of Reddit"
+date = 2019-05-31T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Aldayel A", "W. Magdy"]
+authors = ["Chen L.", "W. Magdy" ,"M. Wolters"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["Aldayel A", "W. Magdy"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "SocInfo 2019"
-publication_short = "In *SocInfo-2019*"
+publication = "IC2S2 2019"
+publication_short = "In *IC2S2-2019 *"
 
 # Abstract and optional shortened version.
 abstract = ""
