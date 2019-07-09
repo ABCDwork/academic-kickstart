@@ -1,6 +1,6 @@
 +++
 title = "It is more than what you Say! Leveraging User Online Activity for Improved Stance Detection"
-date = 2019-05-25T00:00:00
+date = 2019-05-29T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
