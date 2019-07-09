@@ -49,7 +49,7 @@ projects = ["", ""]
 tags = []
 
 # Links (optional).
-url_pdf = "https://homepages.inf.ed.ac.uk/sgwater/papers/icwsm18-skintone.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
