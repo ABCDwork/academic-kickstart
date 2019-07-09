@@ -1,6 +1,6 @@
 +++
 title = " Assessing Sentiment of the Expressed Stance on Social Media"
-date = 2019-07-1T00:00:00
+date = 2019-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
