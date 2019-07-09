@@ -1,10 +1,10 @@
 +++
-title = "It is more than what you Say! Leveraging User Online Activity for Improved Stance Detection"
-date = 2019-05-29T00:00:00
+title = " Understanding Referential Aspects of Skin-toned Emoji on Social Media"
+date = 2019-05-30T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Aldayel A", "W. Magdy"]
+authors = ["Robertson A.", "W. Magdy"]
 
 # Publication type.
 # Legend:
