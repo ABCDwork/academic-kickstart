@@ -59,7 +59,7 @@ link = "https://scholar.google.com/citations?user=ACQD8jMAAAAJ&hl=en"
 #[[social]]
 #icon = "github"
 #icon_pack = "fab"
-#link = "https://github.com/isabelleaugenstein"
+#link = "https://github.com/dilara91"
 
 
 # Optional external URL for project (replaces project detail page).
