@@ -44,7 +44,7 @@ link = "mailto:augenstein@di.ku.dk"  # For a direct email link, use "mailto:test
 [[social]]
 icon = "twitter"
 icon_pack = "fab"
-link = "https://twitter.com/walid_magdy"
+link = "https://twitter.com/dilarakkl"
 
 #[[social]]
 #icon = "linkedin"
