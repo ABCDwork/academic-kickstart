@@ -1,10 +1,10 @@
 +++
-title = "Mazajak: An Online Arabic Sentiment Analyser"
-date = 2019-05-27T00:00:00
+title = "Arabic Tweet-Act: Speech Act Recognition for Arabic Asynchronous Conversations"
+date = 2019-05-28T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Abu Farha I", "W. Magdy"]
+authors = ["Algotiml B.", "A. Elmadany", "W. Magdy "]
 
 # Publication type.
 # Legend:
