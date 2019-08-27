@@ -38,9 +38,9 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 # Group leader Faculty members Post-docs PhD Students Alumni
 
-[[filter]]
-  name = "All"
-  tag = "*"
+#[[filter]]
+#  name = "All"
+#  tag = "*"
 
 [[filter]]
   name = "Director"
