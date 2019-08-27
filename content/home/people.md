@@ -61,8 +61,8 @@ filter_default = 0
   tag = "Collaborators"
 
 [[filter]]
-  name = "Post-docs"
-  tag = "Post-docs"
+  name = "Alumni"
+  tag = "Alumni"
 
 #[[filter]]
 #  name = "Alumni"
