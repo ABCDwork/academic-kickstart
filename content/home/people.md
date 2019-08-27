@@ -43,20 +43,26 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Group leader"
-  tag = "Group leader"
-  
+  name = "Director"
+  tag = "Director"
+
 [[filter]]
-  name = "Faculty members"
-  tag = "Faculty members"
+  name = "Post-docs"
+  tag = "Post-docs" 
+
+
+[[filter]]
+  name = "PhD Students"
+  tag = "PhD Students"
+
+
+[[filter]]
+  name = "Collaborators"
+  tag = "Collaborators"
 
 [[filter]]
   name = "Post-docs"
   tag = "Post-docs"
-  
-[[filter]]
-  name = "PhD Students"
-  tag = "PhD Students"
 
 #[[filter]]
 #  name = "Alumni"
