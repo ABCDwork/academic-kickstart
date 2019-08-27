@@ -1,9 +1,9 @@
 +++
 # Display name
-title = "Abeer AlDayel"
+title = "Steve Wilson"
 
 # Role/position
-role = "Assistant Professor"
+role = "Postdoc"
 
 # Short bio (displayed in user profile at end of posts)
 #bio = ""
@@ -54,7 +54,7 @@ link = "https://twitter.com/stevewilsonnlp"
 [[social]]
 icon = "google-scholar"
 icon_pack = "ai"
-link = "https://scholar.google.com/citations?user=ACQD8jMAAAAJ&hl=en"
+link = ""
 
 #[[social]]
 #icon = "github"
