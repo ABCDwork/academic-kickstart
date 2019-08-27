@@ -9,14 +9,14 @@ role = "Assistant Professor"
 #bio = ""
 
 # External website link
-external_link = "https://abeeraldayel.github.io/index.html"
+external_link = "https://steverw.com/"
 
 # Date this page was created. Entries are sorted by most recent one.
-date = 2019-01-17T17:07:01
+date = 2019-08-17T17:07:01
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["PhD Students"]
+tags = ["Post-docs"]
 
 # Social/Academic Networking
 #
@@ -44,7 +44,7 @@ link = "mailto:augenstein@di.ku.dk"  # For a direct email link, use "mailto:test
 [[social]]
 icon = "twitter"
 icon_pack = "fab"
-link = "https://twitter.com/walid_magdy"
+link = "https://twitter.com/stevewilsonnlp"
 
 #[[social]]
 #icon = "linkedin"
