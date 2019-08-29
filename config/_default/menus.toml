@@ -14,8 +14,8 @@
   weight = 3
 
 [[main]]
-  name = "media coverage"
-  url = "#posts"
+  name = "Media Coverage"
+  url = "#accomplishments"
   weight = 4
 
 [[main]]
