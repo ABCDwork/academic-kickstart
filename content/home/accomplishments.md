@@ -22,10 +22,10 @@ date_format = "Jan 2006"
 [[item]]
   title = "Your stance is exposed! Analysing possible factors for stance detection on social media"
   #organization = "Your stance is exposed! Analysing possible factors for stance detection on social media"
-  certificate_url = "https://techxplore.com/news/2019-08-people-stance-topic-inferred-online.html"
-  date_start = "2019-08-01"
+  url = "https://techxplore.com/news/2019-08-people-stance-topic-inferred-online.html"
+  date_start = "2019-08-26"
   date_end = ""
-  description = "paper: "
+  #description = "paper: "
 
 #[[item]]
  # title = "Blockchain Fundamentals"
