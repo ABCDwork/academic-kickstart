@@ -7,7 +7,7 @@ title = "Media Coverage"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 4
+weight = 69
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
+  title = "Your stance is exposed! Analysing possible factors for stance detection on social media"
   #organization = "Your stance is exposed! Analysing possible factors for stance detection on social media"
   certificate_url = "https://techxplore.com/news/2019-08-people-stance-topic-inferred-online.html"
   date_start = "2019-08-01"
