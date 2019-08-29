@@ -1,13 +1,13 @@
 +++
 # Hero widget.
 widget = "hero"  # Do not modify this line!
-active = false  # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 0  # Order that this section will appear.
 
 title = "Academic"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "header.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
