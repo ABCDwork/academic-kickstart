@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "Neural Networks and Deep Learning"
-  #organization = "Your stance is exposed! Analysing possible factors for stance detection on social media"
+  organization = "Coursera"
   certificate_url = "https://techxplore.com/news/2019-08-people-stance-topic-inferred-online.html"
   date_start = "2019-08-01"
   date_end = ""
-  description = "paper: "
+  description = ""
 
 #[[item]]
  # title = "Blockchain Fundamentals"
