@@ -20,8 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Your stance is exposed! Analysing possible factors for stance detection on social media
- <a href="https://techxplore.com/news/2019-08-people-stance-topic-inferred-online.html">techxplore</a>"
+  title = "Your stance is exposed! Analysing possible factors for stance detection on social media, techxplore: https://techxplore.com/news/2019-08-people-stance-topic-inferred-online.html"
   #organization = "Your stance is exposed! Analysing possible factors for stance detection on social media"
   #certificate_url = "https://techxplore.com/news/2019-08-people-stance-topic-inferred-online.html"
   date_start = "2019-08-26"
