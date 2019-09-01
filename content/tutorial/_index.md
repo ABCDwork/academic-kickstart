@@ -19,10 +19,11 @@ type = "docs"  # Do not modify.
   weight = 1
 +++
 
-Mazajak:
+## Mazajak:
 
  A Dialect Arabic Sentiment Analyser
  Online tool: http://mazajak.inf.ed.ac.uk:8000/.
- Related Publications:
+ 
+## Related Publications:
  Abu Farha I. and W. Magdy. Mazajak: An Online Arabic Sentiment Analyser. WANLP - ACL 2019
 
