@@ -10,18 +10,19 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.tutorial]
-  name = "Overview"
+  name = "Resources"
   weight = 1
 +++
 
-This feature can be used for publishing content such as:
+Mazajak (????????)
 
-* **Project or software documentation**
-* **Online courses**
-* **Tutorials**
+    A Dialect Arabic Sentiment Analyser
+    Online tool here.
+    Related Publications:
+    Abu Farha I. and W. Magdy. Mazajak: An Online Arabic Sentiment Analyser. WANLP - ACL 2019
 
-The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
+#The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
 
-To disable this feature, either delete the parent folder, or set `draft = true` in the front matter of all its pages. 
+#To disable this feature, either delete the parent folder, or set `draft = true` in the front matter of all its pages. 
 
-After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
+#After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
