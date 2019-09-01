@@ -9,9 +9,9 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Example Page"
+linktitle = "Resource List"
 [menu.tutorial]
-  parent = "Example Topic"
+  parent = "Mazajak"
   weight = 1
 +++
 
