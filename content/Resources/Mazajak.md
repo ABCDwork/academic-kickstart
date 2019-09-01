@@ -10,8 +10,13 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 linktitle = "Example Page"
+<<<<<<< HEAD:content/tutorial/Mazajak.md
 [menu.tutorial]
   parent = "Example Topic"
+=======
+[menu.Resources]
+  parent = "Resources List"
+>>>>>>> parent of 89d6a3b... drewq:content/Resources/Mazajak.md
   weight = 1
 +++
 
