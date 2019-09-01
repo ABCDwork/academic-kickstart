@@ -14,7 +14,7 @@ type = "docs"  # Do not modify.
 #After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
 
 # Add menu entry to sidebar.
-[menu.tutorial]
+[menu.Resources]
   name = "Resources"
   weight = 1
 +++
