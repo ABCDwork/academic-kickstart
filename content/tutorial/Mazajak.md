@@ -14,7 +14,7 @@ linktitle = "Example Page"
 [menu.tutorial]
   parent = "Example Topic"
 =======
-[menu.Resources]
+[menu.tutorial]
   parent = "Resources List"
 >>>>>>> parent of 89d6a3b... drewq:content/Resources/Mazajak.md
   weight = 1
