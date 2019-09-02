@@ -18,7 +18,7 @@
       background-color: {{ $item.overlay_color | default "transparent" }};
       {{ end }}
       {{ if $item.overlay_img }}
-      background-image:{{ if $item.overlay_filter }}linear-gradient(rgba(0, 0, 0, {{ $item.overlay_filter }}), rgba(0, 0, 0, {{ $item.overlay_filter }})), {{ end }},url('{{ printf "/static/img/%s" $item.overlay_img | absURL }}');
+      background-image:url($item.overlay_img);
       {{ end }}
       ;">
       <div class="container" style="text-align: {{$item.align | default "left"}};">
