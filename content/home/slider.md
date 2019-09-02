@@ -24,7 +24,7 @@ height = "300px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
-  overlay_img = "header_2"  # Image path relative to your `static/img/` folder.
+  overlay_img = "static/img/header_2"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
