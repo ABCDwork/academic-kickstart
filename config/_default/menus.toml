@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Media Coverage"
-  url = "#accomplishments"
+  url = "/media/"
   weight = 4
 
 [[main]]
