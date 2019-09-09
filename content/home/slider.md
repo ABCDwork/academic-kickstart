@@ -17,7 +17,7 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "SMASH"
+  #title = "SMASH"
   #content = "Social Media Analysis and Support for Humanities"
   align = "left"  # Choose `center`, `left`, or `right`.
   overlay_img = "header_2.jpg"  # Image path relative to your `static/img/` folder.
@@ -25,7 +25,7 @@ height = "300px"
 
 
 [[item]]
-  title = "SMASH"
+  #title = "SMASH"
   #content = "Social Media Analysis and Support for Humanities"
   align = "left"
   #overlay_color = "#555"  # An HTML color value.
