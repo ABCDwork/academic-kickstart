@@ -25,5 +25,5 @@ Mazajak provides many features such as sentiment analysis for a sentence, a file
  This project was funded by The Alan Turing Institute, UK. The details about the system were published in WANLP-2019, please cite the following paper:
 Mazajak: An Online Arabic Sentiment Analyser. Ibrahim Abu Farha and Walid Magdy. In Proceedings of the Fourth Arabic Natural Language Processing Workshop (WANLP). 2019. 
 
-##You can access the online tool from [here] (http://mazajak.inf.ed.ac.uk:8000/).
+## You can access the online tool from [here] (http://mazajak.inf.ed.ac.uk:8000/)
 
