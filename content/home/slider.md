@@ -20,24 +20,9 @@ height = "300px"
   title = "SMASH"
   content = "Social Media Analysis and Support for Humanities"
   align = "center"  # Choose `center`, `left`, or `right`.
+  overlay_img = "header_2.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  #overlay_color = "#666"  # An HTML color value.
-<<<<<<< HEAD
-  overlay_img = "header_2"  # Image path relative to your `static/img/` folder.
-=======
-  overlay_img = "static/img/header_2"  # Image path relative to your `static/img/` folder.
->>>>>>> parent of 7f214e7... pic
-   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-#  cta_label = "Get Academic"
-  #cta_url = "https://sourcethemes.com/academic/"
-  #cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
 
 [[item]]
   title = "SMASH"
@@ -52,8 +37,7 @@ height = "300px"
   title = "SMASH"
   content = "Social Media Analysis and Support for Humanities"
   align = "center"
-
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
