@@ -20,7 +20,7 @@ height = "300px"
   #title = "SMASH"
   #content = "Social Media Analysis and Support for Humanities"
   align = "left"  # Choose `center`, `left`, or `right`.
-  overlay_img = "header_2.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "header.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 
@@ -29,7 +29,7 @@ height = "300px"
   #content = "Social Media Analysis and Support for Humanities"
   align = "left"
   #overlay_color = "#555"  # An HTML color value.
-  overlay_img = "header_2.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "header.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 #[[item]]
