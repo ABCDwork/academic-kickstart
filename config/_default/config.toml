@@ -9,7 +9,7 @@ title = "SMASH"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://smashrg.netlify.com/"
+baseurl = "http://smash.inf.ed.ac.uk/"
 #http://smashrg.netlify.com/
 #baseurl = "https://smash.github.io/"
 
